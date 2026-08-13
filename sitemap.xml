@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.aceperformance.ca/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.aceperformance.ca/#/shop</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.aceperformance.ca/#/shop?cat=Brakes</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.aceperformance.ca/#/shop?cat=Suspension</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.aceperformance.ca/#/shop?cat=Exhaust</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.aceperformance.ca/#/shop?cat=Intake%20%26%20Turbo</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.aceperformance.ca/#/shop?cat=Tuning%20%26%20Electronics</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.aceperformance.ca/#/shop?cat=Engine%20%26%20Drivetrain</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.aceperformance.ca/#/shop?cat=Exterior%20%26%20Aero</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.aceperformance.ca/#/shop?cat=Car%20Care</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.aceperformance.ca/#/about</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.aceperformance.ca/#/pickup-delivery</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://www.aceperformance.ca/#/contact</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+</urlset>
